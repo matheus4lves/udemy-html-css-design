@@ -1,0 +1,38 @@
+.chair {
+}
+
+.chair__img {
+  width: 100%;
+}
+
+.chair__text-container {
+  padding: 24px;
+}
+
+.chair__h3 {
+  margin-bottom: 24px;
+}
+
+.chair__details-list {
+  list-style: none;
+  margin-bottom: 24px;
+}
+
+.chair__item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.chair__item:last-child {
+  margin-bottom: 0;
+}
+
+.chair__icon {
+}
+
+.chair__price {
+  display: flex;
+  justify-content: space-between;
+}

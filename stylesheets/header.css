@@ -1,0 +1,21 @@
+.header {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 80px;
+}
+
+.header__text-container {
+  align-self: center;
+}
+
+.header__h1 {
+  margin-bottom: 24px;
+}
+
+.header__para {
+  margin-bottom: 24px;
+}
+
+.header__hero-img {
+  width: 100%;
+}

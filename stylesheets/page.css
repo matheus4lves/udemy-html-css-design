@@ -1,0 +1,21 @@
+.page {
+  font-family: sans-serif;
+}
+
+.page__inner {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.page__header {
+  margin-top: 48px;
+}
+
+.page__header,
+.page__section {
+  margin-bottom: 48px;
+}
+
+.page__footer {
+  margin-bottom: 48px;
+}

@@ -1,0 +1,9 @@
+.section__h2 {
+  margin-bottom: 48px;
+}
+
+.section__content-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 80px;
+}
