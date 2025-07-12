@@ -1,6 +1,9 @@
 .feature__h3 {
   margin-bottom: 16px;
+  font-size: 1.25rem;
 }
 
 .feature__para {
+  font-size: 1.125rem;
+  line-height: 1.6;
 }
