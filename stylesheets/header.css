@@ -9,11 +9,16 @@
 }
 
 .header__h1 {
+  font-size: 2.75rem;
+  line-height: 1.1;
+  letter-spacing: -1px;
   margin-bottom: 24px;
 }
 
 .header__para {
   margin-bottom: 24px;
+  font-size: 1.125rem;
+  line-height: 1.6;
 }
 
 .header__hero-img {
