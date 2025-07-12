@@ -1,5 +1,9 @@
 .section__h2 {
-  margin-bottom: 48px;
+  margin-block-end: 48px;
+}
+
+.section__h2--mb--24 {
+  margin-block-end: 24px;
 }
 
 .section__content-grid {
