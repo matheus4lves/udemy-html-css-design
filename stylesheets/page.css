@@ -1,6 +1,7 @@
 .page {
   font-family: "Inter", sans-serif;
   color: var(--color-gray-8);
+  border-block-end: 8px solid var(--color-teal-9);
 }
 
 .page__inner {
