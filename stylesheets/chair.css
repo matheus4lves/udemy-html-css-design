@@ -1,6 +1,3 @@
-.chair {
-}
-
 .chair__img {
   width: 100%;
 }
@@ -31,6 +28,9 @@
 }
 
 .chair__icon {
+  stroke: var(--color-teal-9);
+  width: 24px;
+  height: 24px;
 }
 
 .chair__price {
