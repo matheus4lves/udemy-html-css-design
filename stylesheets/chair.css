@@ -1,3 +1,7 @@
+.chair {
+  box-shadow: 0px 20px 20px rgb(0 0 0 / 50%);
+}
+
 .chair__img {
   width: 100%;
 }
