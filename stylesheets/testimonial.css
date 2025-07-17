@@ -8,6 +8,11 @@
   width: 100%;
 }
 
+.testimonial,
+.testimonial__img {
+  border-radius: var(--radius-xl);
+}
+
 .testimonial__text-container {
   grid-column: 2 / -1;
   align-self: center;
@@ -16,7 +21,4 @@
 .testimonial__blockquote {
   font-style: italic;
   margin-bottom: 24px;
-}
-
-.testimonial__para {
 }

@@ -1,9 +1,12 @@
 .chair {
   box-shadow: 0px 20px 20px rgb(0 0 0 / 50%);
+  border-radius: var(--radius-xl);
 }
 
 .chair__img {
   width: 100%;
+  border-top-left-radius: var(--radius-xl);
+  border-top-right-radius: var(--radius-xl);
 }
 
 .chair__text-container {

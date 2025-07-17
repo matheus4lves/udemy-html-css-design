@@ -23,4 +23,5 @@
 
 .header__hero-img {
   width: 100%;
+  border-radius: var(--radius-xl);
 }

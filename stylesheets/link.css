@@ -8,6 +8,9 @@
   text-decoration: none;
   text-transform: uppercase;
   padding: 8px 16px;
+  /* If you want a rounded effect, set the border-radius to at least half the
+  element's height. Tip: any value higher than that will do. */
+  border-radius: 100px; /* Actually, 26.5px is the minimum required value. */
 }
 
 .link--size--l:link,
