@@ -22,3 +22,7 @@
   font-style: italic;
   margin-bottom: 24px;
 }
+
+.testimonial__para {
+  color: var(--color-teal-1);
+}

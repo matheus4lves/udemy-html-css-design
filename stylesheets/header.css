@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 80px;
+  margin: 64px 0 96px 0;
 }
 
 .header__text-container {
@@ -12,7 +13,7 @@
   font-size: 2.75rem;
   line-height: 1.1;
   letter-spacing: -1px;
-  margin-bottom: 24px;
+  margin-bottom: 32px;
 }
 
 .header__para {

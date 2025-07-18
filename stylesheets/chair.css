@@ -10,7 +10,7 @@
 }
 
 .chair__text-container {
-  padding: 24px;
+  padding: 32px;
 }
 
 .chair__h3 {
@@ -20,14 +20,14 @@
 
 .chair__details-list {
   list-style: none;
-  margin-bottom: 24px;
+  margin-bottom: 48px;
 }
 
 .chair__item {
   display: flex;
   align-items: center;
   gap: 12px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .chair__item:last-child {
@@ -42,6 +42,7 @@
 
 .chair__price {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   font-size: 1.25rem;
 }
